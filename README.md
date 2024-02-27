@@ -14,7 +14,8 @@ we use the relationship between input and output which is output = input * 2 + 1
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+![Screenshot 2024-02-27 103619](https://github.com/Gchethankumar/basic-nn-model/assets/118348224/c975abd8-2403-4150-b715-192359fe52cc)
+
 
 ## DESIGN STEPS
 
